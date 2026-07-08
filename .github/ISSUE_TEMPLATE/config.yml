@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Privacy reminder
+    url: https://github.com/shin4141/ai-repo-reentry-handoff-audit-public/blob/main/SUPPORT.md
+    about: Do not open a public issue with secrets, credentials, private logs, personal data, or confidential material.

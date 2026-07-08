@@ -2,8 +2,9 @@
 
 Find your AI repo's Re-entry Maturity Rank.
 
-![Manual MVP](https://img.shields.io/badge/Manual_MVP-CANDIDATE-lightgrey)
-![Public Shelf](https://img.shields.io/badge/Public_Shelf-LOCAL_CANDIDATE-yellow)
+![Manual MVP](https://img.shields.io/badge/Manual_MVP-PUBLIC_CANDIDATE-lightgrey)
+![Public Repo](https://img.shields.io/badge/Public_Repo-CREATED-green)
+![Announcement](https://img.shields.io/badge/Announcement-HOLD-yellow)
 ![Automation](https://img.shields.io/badge/Automation-NO-lightgrey)
 ![API / Scraping](https://img.shields.io/badge/API_%2F_Scraping-BLOCK-red)
 ![Outreach](https://img.shields.io/badge/Outreach-HOLD-yellow)
@@ -53,9 +54,9 @@ It checks whether a future AI or operator can restart from the repo surface with
 ## Current Gate
 
 ```text
-Manual MVP public shelf: LOCAL CANDIDATE
-GitHub public repo creation: HOLD
-Repo visibility change: HOLD
+Manual MVP public repo: PUBLIC CANDIDATE
+GitHub public repo creation: DONE
+Rendered GitHub surface check: REQUIRED BEFORE ANNOUNCEMENT
 Announcement / posting: HOLD
 Pricing / sell-test: HOLD
 Release / tag: HOLD
@@ -64,8 +65,12 @@ License / reuse selection: HOLD
 API / scraping / automation: BLOCK
 ```
 
-This shelf is a local public candidate only. It is not a GitHub repo, not a publication, not an announcement, and not a license grant.
+This repository is public, but it has not been announced.
+
+Before announcement, the rendered GitHub surface still needs to be checked.
+
+This is not a license grant.
 
 ## Do Not Continue Boundary
 
-Do not publish, announce, price, sell-test, release/tag, implement, use API/scraping/automation, create a GitHub repo, change repo visibility, or treat this shelf as a safety guarantee.
+Do not announce, price, sell-test, release/tag, implement, use API/scraping/automation, select a license, or treat this repository as a safety guarantee.

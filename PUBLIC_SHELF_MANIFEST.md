@@ -13,6 +13,12 @@
 ## Newly Derived Files
 
 - `README.md`
+- `CODE_OF_CONDUCT.md`
+- `CONTRIBUTING.md`
+- `SECURITY.md`
+- `SUPPORT.md`
+- `.github/ISSUE_TEMPLATE/audit_request.md`
+- `.github/ISSUE_TEMPLATE/config.yml`
 - `docs/accident_menu.md`
 - `docs/re_entry_maturity_rank.md`
 - `docs/minimum_input_pack.md`
@@ -46,12 +52,14 @@
 - raw `AGENTS.md`
 - private local paths
 - private repo history
+- real `LICENSE` file until license/reuse selection is approved
 
 ## License / Reuse Status
 
 - No license selected.
 - Reuse rights remain HOLD.
 - See `LICENSE_DECISION_REQUIRED.md`.
+- No real `LICENSE` file is present.
 
 ## Confirmations
 
@@ -61,3 +69,4 @@
 - No publication or announcement occurred.
 - No license was selected.
 - No implementation, API use, scraping, or automation was started.
+- Community standards files were added as documentation/community surfaces only.

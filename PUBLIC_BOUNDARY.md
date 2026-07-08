@@ -1,10 +1,10 @@
 # Public Boundary
 
-This is a local manual MVP public shelf candidate for AI repo re-entry / handoff audits.
+This is a public manual MVP candidate for AI repo re-entry / handoff audits.
 
-It is not a GitHub public repo.
+It is a GitHub public repo.
 
-It is not a publication or announcement.
+It is not an announcement or outreach campaign.
 
 It does not authorize:
 
@@ -18,4 +18,8 @@ It does not authorize:
 - release or tag
 - license/reuse permission
 
-Public repo creation and announcement remain HOLD.
+Announcement, posting, star-seeking, release/tag, pricing, implementation, and license/reuse selection remain HOLD.
+
+Community files and issue templates are documentation surfaces only.
+
+They do not authorize implementation, automation, API use, scraping, pricing, sell-test activity, release/tag work, outreach, posting, license/reuse selection, or emergency support.
