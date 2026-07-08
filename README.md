@@ -6,12 +6,10 @@ This manual audit checks whether your AI-assisted repo can be safely restarted b
 
 Find your AI repo's Re-entry Maturity Rank.
 
-![Manual MVP](https://img.shields.io/badge/Manual_MVP-HUMAN_REVIEW-lightgrey)
+![Manual Audit](https://img.shields.io/badge/Manual_Audit-HUMAN_REVIEW-blue)
 ![Human Review](https://img.shields.io/badge/Human_Review-YES-lightgrey)
-![Automation](https://img.shields.io/badge/Automation-NO-lightgrey)
-![API / Scraping](https://img.shields.io/badge/API_%2F_Scraping-BLOCKED-red)
-![Safety Guarantee](https://img.shields.io/badge/Safety_Guarantee-NO-lightgrey)
-![License / Re-use](https://img.shields.io/badge/License_%2F_Re--use-HOLD-yellow)
+![No Automation](https://img.shields.io/badge/No_Automation-MANUAL_ONLY-lightgrey)
+![License Pending](https://img.shields.io/badge/License-PENDING-yellow)
 
 A manual repo re-entry / handoff audit for agentic codebases, handoff files, and public surfaces.
 
@@ -72,24 +70,25 @@ One delta: Add a visible Current Gate + Next Owner + Do Not Continue Boundary bl
 - not implementation approval
 - not a guarantee of safety
 
-## Current Gate
+## Current Boundaries
 
 ```text
 Manual MVP public repo: PUBLIC CANDIDATE
 GitHub public repo creation: DONE
-Rendered GitHub surface check: REQUIRED BEFORE ANNOUNCEMENT
-Announcement / posting: HOLD
-Star-seeking: HOLD
+Rendered GitHub surface check: PASS
+Announcement / posting / star-seeking judgment: HOLD
+Announcement / posting / star-seeking execution: HOLD
 Pricing / sell-test: HOLD
 Release / tag: HOLD
 Implementation: HOLD
 License / reuse selection: HOLD
+Safety guarantee: NO
 API / scraping / automation: BLOCK
 ```
 
 This repository is public, but it has not been announced.
 
-Before announcement, the rendered GitHub surface still needs to be checked.
+Announcement, posting, or star-seeking still requires explicit human judgment.
 
 This is not a license grant.
 
