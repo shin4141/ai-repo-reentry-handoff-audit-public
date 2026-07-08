@@ -40,6 +40,7 @@
 - `audits/checklists/first_screen_gate_signal_check.md`
 - `audits/audit_010_public_visibility_announcement_readiness_gate.md`
 - `audits/audit_013_clean_public_shelf_manifest.md`
+- `audits/audit_018_readme_first_screen_conversion.md` source record after README first-screen conversion
 
 ## Excluded Files / Folders
 
@@ -70,3 +71,4 @@
 - No license was selected.
 - No implementation, API use, scraping, or automation was started.
 - Community standards files were added as documentation/community surfaces only.
+- README first screen was converted from internal taxonomy-first copy to reader pain-first copy.

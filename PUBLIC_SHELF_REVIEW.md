@@ -61,3 +61,12 @@ Addendum after community standards polish:
 - README and public boundary wording were updated to reflect that the public GitHub repo now exists while announcement remains HOLD.
 - No real `LICENSE` file was added.
 - License/reuse remains HOLD.
+
+Addendum after README first-screen conversion:
+
+- README first screen now starts from reader pain before introducing the Re-entry Maturity Rank.
+- A 1-minute self-check was added near the top.
+- A compact sample result excerpt was added near the top.
+- Status badges were simplified toward external reader signals: Manual MVP, Human Review, Automation NO, API/Scraping BLOCKED, Safety Guarantee NO, and License/Re-use HOLD.
+- Internal progress status remains in the Current Gate block.
+- Accident Menu, Re-entry Maturity Rank, Minimum Input Pack, Sample Output, First-Screen Gate Signal Check, and Public Visibility Gate remain linked as payoff sections.
